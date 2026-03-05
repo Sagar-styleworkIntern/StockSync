@@ -1,7 +1,5 @@
 # StockSync
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Sagar-Admane/StockSync)
-
 StockSync is a full-stack web application designed for real-time stock market tracking, analysis, and prediction. It provides users with live stock data, interactive historical charts, a personalized wishlist, and an AI-powered prediction feature to forecast future stock prices.
 
 ## ✨ Features
