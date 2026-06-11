@@ -2,6 +2,8 @@
 
 StockSync is a full-stack web application designed for real-time stock market tracking, analysis, and prediction. It provides users with live stock data, interactive historical charts, a personalized wishlist, and an AI-powered prediction feature to forecast future stock prices.
 
+NOTE: This is just a part of stocksync to get the api for the next part please visit stocksync2 
+
 ## ✨ Features
 
 -   **Real-Time Data Streaming:** Utilizes WebSockets (`Socket.IO`) to stream live stock market data directly to the user's dashboard.
